@@ -6,4 +6,6 @@ My expertise is building, leading, and maturing software development groups. I t
 
 I am Autistic - and was diagnosed as an adult. I write/speak about engineering leadership, my experiences with Autism, and delivering software. 
 
-My Medium Blog: www.medium.com/@mattnigh
+My Medium Blog: [www.medium.com/@mattnigh](www.medium.com/@mattnigh)
+
+My LinkedIn: [https://www.linkedin.com/in/mattnigh/](https://www.linkedin.com/in/mattnigh/)
