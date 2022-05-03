@@ -8,4 +8,4 @@ I am Autistic - and was diagnosed as an adult. I write/speak about engineering l
 
 My Medium Blog: [www.medium.com/@mattnigh](www.medium.com/@mattnigh)
 
-My LinkedIn: [https://www.linkedin.com/in/mattnigh/](https://www.linkedin.com/in/mattnigh/)
+My LinkedIn: [www.linkedin.com/in/mattnigh/](https://www.linkedin.com/in/mattnigh/)
