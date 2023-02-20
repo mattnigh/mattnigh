@@ -8,7 +8,7 @@ My expertise is building, leading, and maturing software development groups. I t
 
 ## 📘 User Manual for @mattnigh
 
-If you're new to working with me this document should give you an idea about how to best work with me. Also - please help me improve this document by pointing out mistakes, or inconsistencies.
+If you don't know me well, document should give you an idea about who I am and my patterns. *Please help me improve this document by pointing out mistakes, or inconsistencies.*
 
 ### ❗️Important facts about me
 
