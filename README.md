@@ -1,6 +1,8 @@
 ### 👋 Hi there, I'm Matt.
 
-I am an Technical Business Operations Manager @ GitHub. I am responsible for running business operations and am the acting Chief of Staff for a SVP of Engineering and the GitHub Platform and Enterprise organization (~ 600 engineers).
+I am an Technical Business Operations Manager @ GitHub. I am responsible for running business operations and am the acting Chief of Staff for a SVP of Engineering and the GitHub Platform and Enterprise organization (~ 600 engineers). 
+
+You can visit my portfolio at [mattnigh.net](https://www.mattnigh.net/) and my blog at [blog.mattnigh.net](https://blog.mattnigh.net/).
 
 ### What I do
 
@@ -8,6 +10,7 @@ My expertise is building, leading, and maturing software development organizatio
 
 ### My writings
 
+- [The art of engineering team focus: less is more](https://resources.github.com/developer-productivity/engineering-team-focus/)
 - [Why developer satisfaction is your best productivity metric](https://resources.github.com/developer-productivity/why-developer-satisfaction-is-your-best-productivity-metric/)
 - [Patterns for Managing Autistic Engineers](https://www.mattnigh.net/managing-autistic-engineers)
 - [Template for a team brag post](https://www.mattnigh.net/team-brag-post)
