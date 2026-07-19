@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Matt.
 
-I am a Program Manager Director @ GitHub, and I run AI enablement programs.
+I am a Principal Technical Program Manager @ General Motors focused on AI enablement + development experience.
 
 You can visit my portfolio at [mattnigh.net](https://www.mattnigh.net/) and my blog at [blog.mattnigh.net](https://blog.mattnigh.net/).
 
@@ -27,7 +27,7 @@ My expertise is building, leading, and maturing software development organizatio
 
 ## 🤖 GitHub AI Enablement Playbook
 
-As part of my role at GitHub I ran the company-wide AI for Everyone program. The goal of this program was to scale AI adoption + fluency across our company. I published an AI enablement playbook for our customers + others to use from our own learnings.
+When I worked at at GitHub I ran the company-wide AI for Everyone program. The goal of this program was to scale AI adoption + fluency across our company. I published an AI enablement playbook for our customers + others to use from our own learnings.
 
 **The overall playbook** 👉 [GitHub’s internal playbook for building an AI-powered workforce](https://resources.github.com/enterprise/ai-powered-workforce-playbook/)
 
