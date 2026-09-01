@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8ce88339-31d5-4ef6-a40c-85ec06317ae7)
+
 ### 👋 Hi there, I'm Matt.
 
 I am a Principal Technical Program Manager @ General Motors focused on AI enablement + development experience.
